@@ -396,7 +396,7 @@ using **Microsoft Power BI Desktop**.
 https://github.com/dev-kamal-jeet
 
 **LinkedIn:**
-Add your LinkedIn profile link here
+https://www.linkedin.com/posts/kamal-jeet-275205351_powerbi-dataanalytics-dataanalyst-ugcPost-7500160558193721344-6q-I/?utm_source=share&utm_medium=member_android&rcm=ACoAAFfGCzkB0z4XgXjv0ya4N42h4BEd_vEU9MM
 
 ---
 
